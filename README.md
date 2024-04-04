@@ -25,7 +25,7 @@ In Burp Suite, the default embedded browser is Chromium. However, if you prefer 
 
 ### 2. Open the Burp Suite.
 
-- Open Settings. [You will see this interface]
+- Open Settings.
 - Click on "Burp's browser".
 - Click on select folder and paste that path you have copied in 1st Step.
 
