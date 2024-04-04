@@ -31,4 +31,8 @@ In Burp Suite, the default embedded browser is Chromium. However, if you prefer 
 
 ### It will look like this:
 
-- ![Settings Interface](![alt text](<Screenshots/Screenshot from 2024-04-02 23-34-11.png>))
+- Burpsuite Settings Interface
+
+
+  ![Screenshot from 2024-04-02 23-34-11](https://github.com/khushi-nirsang/Error-Solutions/assets/134994971/8e0cdb88-461f-4972-9fe5-fdc59f55c198)
+
