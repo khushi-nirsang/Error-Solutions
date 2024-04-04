@@ -31,4 +31,4 @@ In Burp Suite, the default embedded browser is Chromium. However, if you prefer 
 
 It will look like this:
  
- ![Settings Interface](Screenshots/Screenshot from 2024-04-02 23-34-11.png)
+ ![Settings Interface](![alt text](<Screenshots/Screenshot from 2024-04-02 23-34-11.png>))
