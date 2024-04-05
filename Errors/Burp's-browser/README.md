@@ -32,3 +32,4 @@ In Burp Suite, the default embedded browser is Chromium. However, if you prefer 
 
 ![burp-settings](https://github.com/khushi-nirsang/Error-Solutions/assets/134994971/f736684f-0513-4964-a511-3d72284a03a5)
 
+
